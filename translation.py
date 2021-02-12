@@ -31,15 +31,15 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    DOWNLOAD_START = "Downloading..."
+    DOWNLOAD_START = "<b>Downloading... Please Wait 🥺</b>"
     
-    UPLOAD_START = "Uploading..."
+    UPLOAD_START = "<b>Uploading... Please Wait 🙃</b>"
     
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds.\n\nBy @Infinity_BOTs"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds \n\nUploaded in {} seconds\n\n<b>By @Infinity_BOTs</b>"
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
-    CUSTOM_CAPTION_UL_FILE = "<b>Uploaded by @FilmsZilla</b>"
+    CUSTOM_CAPTION_UL_FILE = "Uploaded by @FilmsZilla"
 
     SLOW_URL_DECED = "Nigga, that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try @HK_transloader_BOT and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
 
