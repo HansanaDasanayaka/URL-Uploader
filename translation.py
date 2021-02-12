@@ -39,7 +39,7 @@ URL | newfilename | username | password"""
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = "<b>Uploaded by @FilmsZilla</b>"
 
     SLOW_URL_DECED = "Nigga that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try @HK_transloader_BOT and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
 
