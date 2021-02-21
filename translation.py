@@ -6,7 +6,7 @@ Please send me any Direct download URL link, I can upload to telegram as File or
 
 /help for more details 🙃
 
-Made with ❤ 🇱🇰 by @Infinity_BOTs</b>
+Made with ❤ 🇱🇰 by @TGRobotz</b>
 """
 
     HELP_USER = """<u><b>More Help and Commands</u>
@@ -19,7 +19,7 @@ Made with ❤ 🇱🇰 by @Infinity_BOTs</b>
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Made by @Infinity_BOTs</b>
+Made by @TGRobotz</b>
 """
 
     FORMAT_SELECTION = """Select the desired format, file size might be approximate.
@@ -35,7 +35,7 @@ URL | newfilename | username | password"""
     
     UPLOAD_START = "<b>Uploading... Please Wait 🙃</b>"
     
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds \n\nUploaded in {} seconds\n\n<b>By @Infinity_BOTs</b>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds \n\nUploaded in {} seconds\n\n<b>By @TGRobotz</b>"
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
